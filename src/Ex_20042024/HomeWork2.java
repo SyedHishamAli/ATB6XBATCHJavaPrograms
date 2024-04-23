@@ -10,7 +10,7 @@ public class HomeWork2 {
         //Exp a = 12 : a=13
         System.out.println(--b + b++ + ++b);
         //Exp b = 9 : b=9
-        //Exp b = 9 : b=10
+        //Exp b = 9 : b=10git
         //Exp b = 11 : b = 11
 //        System.out.println(9+9+11);
 
