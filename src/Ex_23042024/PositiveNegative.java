@@ -2,7 +2,7 @@ package Ex_23042024;
 
 import java.util.Scanner;
 
-public class HomeWork4 {
+public class PositiveNegative {
     public static void main(String[] args) {
         //input is int
         //num < 0 is negative and num==0 and num>0

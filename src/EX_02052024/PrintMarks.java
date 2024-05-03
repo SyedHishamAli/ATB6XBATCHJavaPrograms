@@ -1,9 +1,8 @@
 package EX_02052024;
 
-import javax.security.sasl.SaslClient;
 import java.util.Scanner;
 
-public class Lab02 {
+public class PrintMarks {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         double[] Marks= new double[5];

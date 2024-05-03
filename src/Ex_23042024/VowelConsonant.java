@@ -2,7 +2,7 @@ package Ex_23042024;
 
 import java.util.Scanner;
 
-public class HomeWork5 {
+public class VowelConsonant {
 
     //input is Char output is String
     //Core Logic Vowels are a e i o u

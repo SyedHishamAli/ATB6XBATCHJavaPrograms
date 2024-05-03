@@ -2,7 +2,7 @@ package Ex_23042024;
 
 import java.util.Scanner;
 
-public class FizzBuzz {
+public class PrimeNumber {
     public static void main(String[] args) {
 
         Scanner user = new Scanner(System.in);

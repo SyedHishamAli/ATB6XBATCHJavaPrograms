@@ -2,7 +2,7 @@ package Ex_23042024;
 
 import java.util.Scanner;
 
-public class HomeWork9 {
+public class LeapYear {
     //Leap Year
     //Core Logic as year divisible by 4, not by 100 but by 400
     public static void main(String[] args) {

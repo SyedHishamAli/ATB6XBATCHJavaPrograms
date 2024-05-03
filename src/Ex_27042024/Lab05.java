@@ -1,2 +1,17 @@
-package Ex_27042024;public class Lab05 {
+package Ex_27042024;
+
+public class Lab05 {
+    public static void main(String[] args) {
+        int i = 10;
+        do {
+            System.out.println(i);
+            i++;
+        } while (i < 10);
+
+
+        while(i < 10){
+            System.out.println(i);
+            i++;
+        }
+    }
 }

@@ -2,7 +2,7 @@ package Ex_23042024;
 
 import java.util.Scanner;
 
-public class HomeWork6 {
+public class LargestThree {
     public static void main(String[] args) {
         System.out.println("Enter your number here --> ");
         Scanner u=new Scanner(System.in);
