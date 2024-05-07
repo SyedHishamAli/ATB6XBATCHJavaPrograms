@@ -1,4 +1,4 @@
-package May.EX_02052024;
+package EX_02052024;
 
 public class DoubleArray {
     public static void main(String[] args) {

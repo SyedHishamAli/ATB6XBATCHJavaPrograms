@@ -1,4 +1,6 @@
-package May.EX_02052024;
+package EX_02052024;
+
+import java.sql.SQLOutput;
 
 public class MaxSalary {
     public static void main(String[] args) {
